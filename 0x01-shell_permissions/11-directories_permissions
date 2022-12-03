@@ -1,2 +1,2 @@
 #!/bin/bash
-chmo -a *x . 
+chmo -a +x .  
