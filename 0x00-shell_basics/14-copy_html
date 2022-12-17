@@ -1,2 +1,2 @@
 #!/bin/bash
-p -nv *.html ..
+cp -nv *.html ..
