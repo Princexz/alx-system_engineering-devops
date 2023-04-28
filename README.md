@@ -32,8 +32,9 @@ All of the following folders are projects done during the studies:
 | [`Command Line For The Win`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/command_line_for_the_win) |  This aims to gain mastery of command line commands across different difficulties |
 | [`Attack Is The Best Defense`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/attack_is_the_best_defense) | .  |
 
-## Author :
-* [Prince Solomon] <[princexz](https://github.com/princexz)>
+## Author: :black_nib:
+
+* [Prince Solomon] [princexz](https://github.com/princexz)
 
 ## Acknowledgements :pray:
 
