@@ -147,8 +147,9 @@ In this project, I worked on loops and conditionals statements in Bash.
 ---
 
 
-## Author
-* **Prince Solomon** - [princexz](https://github.com/princexz)
+## Author :black_nib:
+
+* **Prince Solomon**  [princexz](https://github.com/princexz)
 
 ## Acknowledgements :pray:
 
